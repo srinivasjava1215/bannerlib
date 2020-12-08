@@ -1,0 +1,21 @@
+{
+  "name": "banner",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/banner.umd.js",
+  "module": "fesm5/banner.js",
+  "es2015": "fesm2015/banner.js",
+  "esm5": "esm5/banner.js",
+  "esm2015": "esm2015/banner.js",
+  "fesm5": "fesm5/banner.js",
+  "fesm2015": "fesm2015/banner.js",
+  "typings": "banner.d.ts",
+  "metadata": "banner.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
